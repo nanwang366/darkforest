@@ -250,7 +250,7 @@ body{
 	height: 50px;
     width: 50px;
 	padding-top: 10px;
-	font-size: 1em;
+	font-size: .8em;
     color:rgb(233, 233, 233);
 }
 .social ul li:nth-child(2){
